@@ -1,3 +1,5 @@
+//C++ program that returns moment statistics of all input argument values. Input arguments are numeric values.
+
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
